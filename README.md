@@ -18,3 +18,7 @@ Something strange I did but is subject to change is "Recruitment methods", which
 - "Avatar" would be the ID for "Avatar (M)" and "AvatarF" would be the ID for "Avatar (F)"
 - Children' modifiers stats were not filled as it heavily depends on their parents' stats
 - Children' indicated growth rates are "base growth rates", the final growth rates depends on their second parent
+
+## Data source
+
+Data compiled mainly from [Serenes Forest](http://serenesforest.net) and [Fire Emblem Wikia](http://fireemblem.wikia.com)
