@@ -1,0 +1,7 @@
+BaseClasses=SpearMaster
+BaseCharacter=
+ItemObtain=
+GenderLock=
+
+AcquireLevel=15
+AcquireCost=2000

@@ -1,0 +1,7 @@
+BaseClasses=Merchant
+BaseCharacter=
+ItemObtain=
+GenderLock=
+
+AcquireLevel=5
+AcquireCost=15

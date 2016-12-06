@@ -1,0 +1,2 @@
+DisplayName=Replicate
+Description=Select the “Replicate” command once per map to create a replica with the same appearance, stats, inventory and HP as the user (Anything that happens to the replica happens to the user and vice versa–even death)

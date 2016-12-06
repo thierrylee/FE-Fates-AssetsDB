@@ -1,0 +1,7 @@
+BaseClasses=Villager
+BaseCharacter=
+ItemObtain=
+GenderLock=
+
+AcquireLevel=1
+AcquireCost=5000

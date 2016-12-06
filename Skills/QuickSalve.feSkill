@@ -1,0 +1,7 @@
+BaseClasses=Apothecary
+BaseCharacter=
+ItemObtain=
+GenderLock=
+
+AcquireLevel=10
+AcquireCost=750

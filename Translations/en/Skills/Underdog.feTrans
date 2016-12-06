@@ -1,0 +1,2 @@
+DisplayName=Underdog
+Description=Hit rate and Avoid +15 when user’s Level is lower than the enemy (promoted units count as Level +20)

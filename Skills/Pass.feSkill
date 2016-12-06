@@ -1,0 +1,7 @@
+BaseClasses=Adventurer
+BaseCharacter=
+ItemObtain=
+GenderLock=
+
+AcquireLevel=15
+AcquireCost=1750

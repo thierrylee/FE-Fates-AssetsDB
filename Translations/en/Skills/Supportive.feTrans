@@ -1,0 +1,2 @@
+DisplayName=Supportive
+Description=When user is the support unit, if the lead unit has a C Support or higher, the lead unit’s Hit Rate +10, damage +2 and damage received -2

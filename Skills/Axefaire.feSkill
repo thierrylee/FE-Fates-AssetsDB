@@ -1,0 +1,7 @@
+BaseClasses=Berserker
+BaseCharacter=
+ItemObtain=
+GenderLock=
+
+AcquireLevel=15
+AcquireCost=2000

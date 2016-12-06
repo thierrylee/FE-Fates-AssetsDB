@@ -1,0 +1,2 @@
+DisplayName=Pyrotechnics
+Description=When user triggers the battle at under half HP, the user and enemies within a 2 tile radius have their HP reduced by 20%

@@ -1,0 +1,7 @@
+BaseClasses=Mechanist
+BaseCharacter=
+ItemObtain=
+GenderLock=
+
+AcquireLevel=15
+AcquireCost=3000

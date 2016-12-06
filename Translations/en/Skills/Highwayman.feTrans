@@ -1,0 +1,2 @@
+DisplayName=Highwayman
+Description=When user triggers the battle, if the enemy cannot counter-attack, enemy’s Strength and Speed -3 after the battle (stats recover by 1 each Turn)

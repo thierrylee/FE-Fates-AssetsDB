@@ -1,0 +1,7 @@
+BaseClasses=SpearFighter
+BaseCharacter=
+ItemObtain=
+GenderLock=
+
+AcquireLevel=10
+AcquireCost=1000
