@@ -22,4 +22,4 @@ Something strange I did but is subject to change is "Recruitment methods", which
 ## Data source & Special thanks
 
 Data compiled mainly from [Serenes Forest](http://serenesforest.net) and [Fire Emblem Wikia](http://fireemblem.wikia.com)
-Thanks a lot to the (Fire Emblem Subreddit)(https://www.reddit.com/r/fireemblem/) and globally to the entire Fire Emblem community !
+Thanks a lot to the [Fire Emblem subreddit](https://www.reddit.com/r/fireemblem/) and globally to the entire Fire Emblem community !
