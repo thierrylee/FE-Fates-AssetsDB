@@ -8,14 +8,14 @@ GenderParallelClass=
 UnitTypes=
 
 Weapons=Tome S
-HPMax=55
-StrMax=32
-MagMax=31
-SklMax=28
-SpdMax=27
-LckMax=31
-DefMax=34
-ResMax=30
+HPMax=50
+StrMax=25
+MagMax=35
+SklMax=26
+SpdMax=29
+LckMax=26
+DefMax=29
+ResMax=33
 
 HPGrowth=0
 StrGrowth=0
