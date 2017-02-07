@@ -1,5 +1,5 @@
 BaseClasses=
-BaseCharacter=Avatar
+BaseCharacterIds=Avatar/AvatarF
 ItemObtain=
 GenderLock=
 
