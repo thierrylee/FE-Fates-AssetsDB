@@ -7,6 +7,8 @@ ConquestRecruitment=
 RevelationRecruitment=16
 DLCRecruitment=
 AmiiboRecruitment=
+CaptureRecruitment=
+HairColor=#5b3831
 
 HPModifier=0
 StrModifier=1
