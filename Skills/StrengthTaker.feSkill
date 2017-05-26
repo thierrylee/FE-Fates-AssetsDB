@@ -1,6 +1,6 @@
 BaseClasses=Vanguard
 BaseCharacterIds=
-ItemObtain=StrengthtakerScroll
+ItemObtain=StrengthTakerScroll
 GenderLock=
 
 AcquireLevel=35
