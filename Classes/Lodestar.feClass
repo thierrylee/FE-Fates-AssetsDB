@@ -11,11 +11,11 @@ Weapons=Sword S
 HPMax=60
 StrMax=29
 MagMax=26
-SklMax=36
+SklMax=35
 SpdMax=33
 LckMax=40
 DefMax=30
-ResMax=39
+ResMax=29
 
 HPGrowth=15
 StrGrowth=10
